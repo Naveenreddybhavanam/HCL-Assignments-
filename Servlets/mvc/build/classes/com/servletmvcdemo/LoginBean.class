@@ -1,0 +1,12 @@
+Êþº¾   2 (  com/servletmvcdemo/LoginBean  java/lang/Object name Ljava/lang/String; password <init> ()V Code
+    	 LineNumberTable LocalVariableTable this Lcom/javatpoint/LoginBean; getName ()Ljava/lang/String;	     setName (Ljava/lang/String;)V getPassword	     setPassword validate ()Z  admin
+   " ! java/lang/String # $ equals (Ljava/lang/Object;)Z StackMapTable 
+SourceFile LoginBean.java !                   	  
+   /     *· ±                            
+   /     *´ °                            
+   >     *+µ ±       
+                             
+   /     *´ °                            
+   >     *+µ ±       
+                             
+   K     *´ ¶ ™ ¬¬                            %      &    '
